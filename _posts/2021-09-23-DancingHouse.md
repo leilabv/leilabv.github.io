@@ -15,4 +15,4 @@ Interactive projection mapping and sound installation
 
 Since 1998 Klaus Obermaier works with projection mapping, most notably not only on static objects like buildings but also on moving bodies (Apparition, Vivisector, D.A.V.E. …).
 
-<iframe width="560" height="315" src="https://youtu.be/4x3NFHBqefY" title=" player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4x3NFHBqefY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
