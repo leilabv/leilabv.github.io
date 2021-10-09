@@ -16,7 +16,7 @@ Interactive projection mapping and sound installation
 Heavy-Headed / Dada-Minded (2015)
 Since 2011 the Ars Electronica Futurelab together with performance avant-gardist and composer Klaus Obermaier investigates innovative forms of audience participation in stage based media art. The research project (St)Age of Participation is a reference to the actual paradigm of social media and collaboration culture.
 
-<iframe width="560" height="315" src="https://youtu.be/FvJu-hEsxxE?t=171" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/FvJu-hEsxxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Heavy-Headed / Dada-Minded is a playful eccentric combination of
 real-time generated content, live manipulated sounds and dadaistic performance interventions: Kurt Schwitters’ famous sound poem Ursonate (1923-32) gets transformed into an interactive dance performance. The audience can co-create the audiovisual environment by means of smartphones but also through bodily actions, or enter a walk-in tracking box to leave their virtualized heads as visual material.
 Thereby Heavy-Headed / Dada-Minded not only lifts the boundaries between audience space and stage, but also blurs the traditional timeline of showtime and curtain call.
