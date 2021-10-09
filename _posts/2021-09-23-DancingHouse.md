@@ -4,7 +4,7 @@ read_time: false
 show_date: false
 title: "Dancing House"
 date: 2021-04-20
-img: posts/20210421/bricks03.jpg
+img: posts/20210420/bricks03.jpg
 tags: []
 category: opinion
 author: Klaus Obermaier
