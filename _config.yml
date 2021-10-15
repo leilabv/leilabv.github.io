@@ -4,9 +4,9 @@ description: inter-media performances and artworks
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: https://github.com/leilabv/the-mvm.github.io/edit/main/_config.yml
-logo: "/assets/img/branding/MVM-logo-full.svg"
+logo: "/assets/img/logo.png"
 logo-icon: "/assets/img/branding/MVM-symbol.svg"
-logo-icon-SEO: "/assets/img/branding/MVM-symbol-black.png" # must be a non SVG file
+logo-icon-SEO: "/assets/img/logo.png" # must be a non SVG file
 
 # Night/Dark mode
 # Default mode is "auto", "auto" is for auto nightshift
